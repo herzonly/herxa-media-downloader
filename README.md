@@ -4,7 +4,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-SHAON+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.SHAON+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+-Herza+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.SHAON+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
 <a href="https://www.npmjs.com/package/shaon-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/shaon-media-downloader.svg?style=flat-square"></a>
@@ -14,7 +14,7 @@
 
 ## Instalation :
 ```bash
-> npm i shaon-media-downloader
+> npm i herxa-media-downloader
 ```
 
 ## Example (fb & insta)
@@ -26,9 +26,9 @@ console.log(URL)
 ## Output Example
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "6282393307733",
     "status": true,
     "data": [
         {
@@ -67,9 +67,9 @@ console.log(URL)
 ## Output Example (tikTok)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "6282393307733",
     "status": true,
     "data": {
         "author": {
@@ -99,9 +99,9 @@ console.log(URL)
 ## Output Example (youtube)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "6282393307733",
     "status": true,
     "data": {
         "title": "#black status#sad yt ariful#sad tiktok#short#2022🥀💔",
@@ -121,9 +121,9 @@ console.log(URL)
 ## Output Example (Twitter)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "wa.me/+6282393307733",
     "status": true,
     "data": {
         "HD": "https://video.twimg.com/ext_tw_video/1743351351898181632/pu/vid/avc1/810x720/gKWI2KEyLdRMQBFa.mp4?tag=12",
@@ -149,9 +149,9 @@ fbdown(link, cookie, key).then(data => {
 ## Output Example (fbdown)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "6282393307733",
     "url": "https://www.facebook.com/saroj.dwivedi.7121/videos/691539259851175/?idorvanity=213813760197847",
     "thumbnail": "https://scontent.fkul8-4.fna.fbcdn.net/v/t15.5256-10/427275886_286050634275782_6523162309266122490_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=dd673f&_nc_ohc=8gfhuR00MokAX9K7Xoa&_nc_ht=scontent.fkul8-4.fna&oh=00_AfA0TUr_aw2q146jhqW3Fs-Yd5z0C3O75Hthf7qdLbXKmg&oe=65DB995F",
     "status": true,
@@ -179,9 +179,9 @@ fbdown2(link, key).then(data => {
 ## Output Example (fbdown2)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "6282393307733",
     "status": true,
     "media": {
                title: video title,
@@ -266,9 +266,9 @@ const url = 'url' // past url
 ## Output Example (alldown)
 ```
 {
-    "developer": "SHAON AHMED",
+    "developer": "HERXA",
     "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
+    "devwp": "wa.me/+6282393307733",
     "status": true,
     "media": {
         "title": "video title",
@@ -278,8 +278,6 @@ const url = 'url' // past url
 }
 ```
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801814587247)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Hey.Its.Me.Shaon.Ahmed)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Hey.Its.Me.Shaon.Ahmed)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/shaonproject)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+6282393307733)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/herzonly)
 
